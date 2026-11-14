@@ -37,7 +37,7 @@ PT Bank Rakyat Indonesia (Persero) Tbk | 2026–2027
 
 ## Technical Skills
 
-- **Languages:** Go, C#, PHP, Python, JavaScript
+- **Languages:** Go, C#, PHP, Python, JavaScript, Html, CSS
 - **Frameworks:** Laravel, Streamlit
 - **API & Integration:** REST API, IBM webMethods, Postman
 - **Database:** MySQL, SQLite
